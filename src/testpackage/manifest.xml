@@ -1,0 +1,14 @@
+<package>
+  <description brief="testpackage">
+
+     testpackage
+
+  </description>
+  <author>ALan liu</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/testpackage</url>
+
+</package>
+
+

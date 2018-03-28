@@ -1,0 +1,2 @@
+agitr:turtlesim:tutorial2
+-DCATKIN_DEVEL_PREFIX=/home/alan/ros_workspace/devel -DCMAKE_INSTALL_PREFIX=/home/alan/ros_workspace/install -G Unix Makefiles

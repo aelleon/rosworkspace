@@ -1,0 +1,8 @@
+prefix=/home/alan/ros_workspace/install
+
+Name: tutorial2
+Description: Description of tutorial2
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/alan/ros_workspace/install/lib 
+Requires: 
